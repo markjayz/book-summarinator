@@ -35,9 +35,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## Configuration
 
-Before running the script, you need to set your OpenAI API key. You can do this by creating a `.env` file in the project directory and adding your API key like this:
-
-```env
-OPENAI_API_KEY=your_api_key_here
+openai.api_key=your_api_key_here
 
 
